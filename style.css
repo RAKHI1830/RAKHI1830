@@ -1,0 +1,28 @@
+body {
+  background-color: yellowgreen;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+select,
+input[type="time"],
+button {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
